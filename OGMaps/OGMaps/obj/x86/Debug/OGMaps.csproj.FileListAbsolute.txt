@@ -1,0 +1,6 @@
+F:\Documents\xnaprojects\OGMaps\OGMaps\OGMaps\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\xnaprojects\OGMaps\OGMaps\OGMaps\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Documents\xnaprojects\OGMaps\OGMaps\OGMaps\bin\x86\Debug\OGMaps.exe
+F:\Documents\xnaprojects\OGMaps\OGMaps\OGMaps\bin\x86\Debug\OGMaps.pdb
+F:\Documents\xnaprojects\OGMaps\OGMaps\OGMaps\obj\x86\Debug\OGMaps.exe
+F:\Documents\xnaprojects\OGMaps\OGMaps\OGMaps\obj\x86\Debug\OGMaps.pdb

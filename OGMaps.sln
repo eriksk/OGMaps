@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGMaps", "OGMaps\OGMaps\OGMaps.csproj", "{B132348A-CB09-490C-8581-EA3E10CBC5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGMapsContent", "OGMaps\OGMapsContent\OGMapsContent.contentproj", "{3D8755C5-69F8-4446-AD09-E5ADE86FB854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGMapEditor", "OGMapEditor\OGMapEditor.csproj", "{ABA86130-AF0A-44E1-AC8F-4FA03B8E657D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGLib", "..\OGLib\OGLib\OGLib.csproj", "{E146F855-5E00-4B13-8E74-751E342B61A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B132348A-CB09-490C-8581-EA3E10CBC5B6}.Debug|x86.ActiveCfg = Debug|x86
+		{B132348A-CB09-490C-8581-EA3E10CBC5B6}.Debug|x86.Build.0 = Debug|x86
+		{B132348A-CB09-490C-8581-EA3E10CBC5B6}.Release|x86.ActiveCfg = Release|x86
+		{B132348A-CB09-490C-8581-EA3E10CBC5B6}.Release|x86.Build.0 = Release|x86
+		{3D8755C5-69F8-4446-AD09-E5ADE86FB854}.Debug|x86.ActiveCfg = Debug|x86
+		{3D8755C5-69F8-4446-AD09-E5ADE86FB854}.Release|x86.ActiveCfg = Release|x86
+		{ABA86130-AF0A-44E1-AC8F-4FA03B8E657D}.Debug|x86.ActiveCfg = Debug|x86
+		{ABA86130-AF0A-44E1-AC8F-4FA03B8E657D}.Debug|x86.Build.0 = Debug|x86
+		{ABA86130-AF0A-44E1-AC8F-4FA03B8E657D}.Release|x86.ActiveCfg = Release|x86
+		{ABA86130-AF0A-44E1-AC8F-4FA03B8E657D}.Release|x86.Build.0 = Release|x86
+		{E146F855-5E00-4B13-8E74-751E342B61A2}.Debug|x86.ActiveCfg = Debug|x86
+		{E146F855-5E00-4B13-8E74-751E342B61A2}.Debug|x86.Build.0 = Debug|x86
+		{E146F855-5E00-4B13-8E74-751E342B61A2}.Release|x86.ActiveCfg = Release|x86
+		{E146F855-5E00-4B13-8E74-751E342B61A2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

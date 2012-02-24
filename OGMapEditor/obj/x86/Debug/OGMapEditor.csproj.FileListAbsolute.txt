@@ -1,0 +1,13 @@
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\OGMapEditor.Editor.resources
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\OGMapEditor.Form1.resources
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\OGMapEditor.Map.resources
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\OGMapEditor.Properties.Resources.resources
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\bin\Debug\OGMapEditor.exe
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\bin\Debug\OGMapEditor.pdb
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\bin\Debug\OGMaps.exe
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\bin\Debug\OGMaps.pdb
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\OGMapEditor.exe
+F:\Documents\xnaprojects\OGMaps\OGMapEditor\obj\x86\Debug\OGMapEditor.pdb
